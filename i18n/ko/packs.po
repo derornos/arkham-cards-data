@@ -91,3 +91,6 @@ msgstr ""
 
 msgid "Darkham Horror"
 msgstr ""
+
+msgid "Shadow of the Watchers"
+msgstr "감사자의 그림자"

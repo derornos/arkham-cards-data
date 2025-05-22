@@ -79,3 +79,6 @@ msgstr ""
 
 msgid "Darkham Horror"
 msgstr ""
+
+msgid "Shadow of the Watchers"
+msgstr ""
