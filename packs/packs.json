@@ -160,5 +160,11 @@
     "cycle_code": "zinv",
     "name": "Darkham Horror",
     "position": 6
+  },
+  {
+    "code": "zsotw",
+    "cycle_code": "zinv",
+    "name": "Shadow of the Watchers",
+    "position": 7
   }
 ]
